@@ -8,7 +8,6 @@ import './Footer.css';
 import MinusIcon from '../../assets/img/minus-icon.svg?react';
 import PlusIcon from '../../assets/img/plus-icon.svg?react';
 
-
 const minus = (<MinusIcon />);
 const plus = (<PlusIcon />);
 
