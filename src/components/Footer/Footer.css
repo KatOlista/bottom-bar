@@ -1,5 +1,9 @@
 .footer {
-  width: 100%;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  width: 100vw;
   font-weight: 700;
   font-size: 22px;
   color: #fff;
@@ -97,7 +101,7 @@
 .checked {
   background-image: url('../../assets/img/small-check-mark-icon.svg');
   background-repeat: no-repeat;
-  
+
 }
 
 #withdrawal {
