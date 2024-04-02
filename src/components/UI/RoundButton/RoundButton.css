@@ -1,0 +1,14 @@
+.add-substract-button {
+  width: 26px;
+  height: 26px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  background-color: #0056d6;
+  transition: all .3s ease;
+}
+
+.add-substract-button:active {
+  background-color: #bcfe00;
+}

@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+}
+
+body,
+div,
+section {
+  margin: 0;
+}
+
+body {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  font: Inter;
+  display: flex;
+  min-width: 320px;
+  height: 100vh;
+  overflow: hidden;
+}
+
+button {
+  border: none;
+}
+
+#root {
+  width: 100%;
+}
